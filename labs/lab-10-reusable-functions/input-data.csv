@@ -1,0 +1,5 @@
+Test,n,sides,seed
+default,2,6,42
+one die,1,6,42
+four-sided,2,4,99
+invalid,0,6,42

@@ -1,0 +1,5 @@
+"dataset","rows","columns"
+"mtcars",32,11
+"quakes",1000,5
+"sleep",20,3
+"chickwts",71,2

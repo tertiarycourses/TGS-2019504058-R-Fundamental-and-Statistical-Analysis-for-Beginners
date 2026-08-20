@@ -1,0 +1,3 @@
+"test","p_value","decision"
+"two-sample t-test",0.0286319110729064,"Reject H0"
+"one-way ANOVA",0.00090816688448924,"Reject H0"

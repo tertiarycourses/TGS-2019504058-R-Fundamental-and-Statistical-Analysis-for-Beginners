@@ -1,0 +1,4 @@
+"issue","action"
+"Missing argument","check args(mean)"
+"Wrong type","inspect str(height)"
+"Unknown column","inspect names(vehicle)"

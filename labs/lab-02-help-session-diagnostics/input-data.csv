@@ -1,0 +1,4 @@
+Issue,Object,Expected
+Missing argument,mean,numeric result
+Wrong type,height,numeric
+Unknown column,vehicle,mpg
